@@ -1,0 +1,1 @@
+Delt repo for kollokviegruppen med det lekre navnet IFIbabez.py. Mulighet for å dele alle mulige kodeprosjekter og repetisjons-script frem mot eksamen :)
